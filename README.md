@@ -31,7 +31,7 @@ Running the container in detached mode, limiting memory to 100MB, and publishing
 ### 5. Push to Docker Hub
 Authenticating, correctly tagging the image with the Docker Hub username, and pushing the completed image to the registry:
 
-![Login and Tag](Screenshot%202026-03-29%20194139.png)
+![Login and Tag](Screenshot%202026-03-29%20194138.png)
 
 ![Login and Tag](Screenshot%202026-03-29%20210444.png)
 
