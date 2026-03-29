@@ -33,6 +33,8 @@ Authenticating, correctly tagging the image with the Docker Hub username, and pu
 
 ![Login and Tag](Screenshot%202026-03-29%20194139.png)
 
+![Login and Tag](Screenshot%202026-03-29%20210444.png)
+
 ![Push to Hub](Screenshot%202026-03-29%20194204.png)
 
 ---
